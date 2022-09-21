@@ -108,6 +108,17 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Kevin",
+      "species": "T-rex",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
